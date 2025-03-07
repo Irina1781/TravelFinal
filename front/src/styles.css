@@ -1,0 +1,71 @@
+body {
+  background-color: #EEF6FE;  
+}
+
+.App {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #EEF6FE;
+  padding-top: 5px;
+}
+
+.Button {
+  background-color: #88B5CE;
+  margin-top: 20px;
+  border: 1px solid lightgrey;
+  font: 15px;
+  padding: 7px;
+  text-decoration: none;
+  text-align: center; 
+  width:80px;
+}
+
+.Button1 {
+  background-color: #88B5CE;
+  margin-left: 10px;
+  margin-top: 20px;
+  border: 1px solid lightgrey;
+  font: 15px;
+  padding: 7px;
+  text-decoration: none;
+  text-align: center; 
+  width:80px;
+}
+
+.ButtonList {
+  background-color: #88B5CE;
+  border: 1px solid lightgrey;
+  font: 1.5vw;
+  color: #fff;
+  padding: 7px;
+  text-decoration: none;
+  text-align: center;   
+  border-radius: 1%;
+}
+
+.Img {
+  width: 50%;
+  border-radius: 1%;
+}
+
+.Text {
+  position: absolute;
+  margin-left: 45%;
+  font-size: 1.15vw;
+  text-align: justify;
+  padding: 3%;
+  padding-top: 2%;
+}
+
+.headline {
+ font-family: "Lovers Quarrel", cursive; 
+ font-weight: 800;
+ font-style: normal;
+}
+
+.headline2 {
+  font-family: "Arizonia", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
